@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a Ph.D. candidate in accounting at the <a href='https://business.uc3m.es/en/index'>Universidad Carlos III de Madrid</a>. I received a bachelor's degree in Accounting in 2015 from Banking University of Ho Chi Minh City and a master's degree in Business and Finance in 2020 from Universidad Carlos III de Madrid. Before joining the Master’s and PhD program at UC3M, I had three-year working experience in accounting and auditing companies in Vietnam.
+Jun Nguyen is currently a Ph.D. candidate in accounting at the <a href='https://business.uc3m.es/en/index'>Universidad Carlos III de Madrid</a>. She received a bachelor's degree in Accounting in 2015 from Banking University of Ho Chi Minh City and a master's degree in Business and Finance in 2020 from Universidad Carlos III de Madrid. Before joining the Master’s and PhD program at UC3M, she had three-year working experience in accounting and auditing companies in Vietnam. Her research interests center around audit quality, auditor judgments, auditors’ reporting and disclosure. She is interested in adopting advanced econometrics methods and frontier data science methods in auditing research.
 {style="text-align: justify;"}
