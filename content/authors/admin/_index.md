@@ -8,7 +8,7 @@ last_name: Nguyen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇻🇳
 
 # Is this the primary user of the site?
 superuser: true
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a Ph.D. candidate in accounting at the <a href='https://business.uc3m.es/en/index'>Universidad Carlos III de Madrid</a>. I received a bachelor's degree in Accounting in 2015 from Banking University of Ho Chi Minh City and a master's degree in Business and Finance in 2020 from Universidad Carlos III de Madrid. Before joining the Master’s and PhD program at UC3M, I had three-year working experience in accounting and auditing companies in Vietnam.
 {style="text-align: justify;"}
